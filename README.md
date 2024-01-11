@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanket</h1>
-<h3 align="center">"I am a passionate robotics engineer who finds jo in both constructing and programming robots, immersed in a realm where the hum of machinery echoes the fulfillment creations</h3>
+<h3 align="center">"I am a passionate robotics engineer who finds joy in both constructing and programming robots, immersed in a realm where the hum of machinery echoes the fulfillment creations</h3>
 
-- 🔭 I’m currently working on **ROS/ROS2,Robotics,Simulations,Hardware,**
+- 🔭 I’m currently working on **ROS/ROS2,Robotics,Simulations,Hardware**
 
 - 📫 How to reach me **skhade369@gmail.com**
 
